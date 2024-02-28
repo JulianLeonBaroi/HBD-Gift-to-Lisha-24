@@ -1,0 +1,19 @@
+Project-3
+
+Name                : HBD Gift to Lisha '24
+Version             : 1.0.0
+Filetype            : .html
+Markup Language     : HTML
+Software            : Notepad
+
+Developed By        : Julian Leon Baroi
+Development Time    : 12.02.24 - 13.02.24 (2 Days)
+Edited On           : 14.02.24, 15.02.24, 20.02.24, 21.02.24, 26.02.24, 27.02.24 & 28.02.24
+Release Date & Time : 27.02.24
+
+Resources
+Name                : Happy Birthday [WaveMaster, Pixabay] => Audio 1
+Collected On        : 12.02.24
+
+
+© 2024 Julian Leon Baroi. All rights reserved.
